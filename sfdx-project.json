@@ -3,6 +3,10 @@
     {
       "path": "force-app",
       "default": true
+    },
+    {
+      "path": "cost-tracking-app",
+      "default": false
     }
   ],
   "name": "CostTrackingApp",
